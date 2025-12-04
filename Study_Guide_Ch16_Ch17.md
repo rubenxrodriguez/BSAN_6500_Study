@@ -168,8 +168,25 @@ Driven by:
 ---
 
 # 📐 Solved Examples
+Given:
 
+Supplier throughput = 20 days
+
+Factory throughput = 60 days
+
+Wholesaler = 30 days
+
+Retailer = 20 days
+
+a. Total throughput time
+20+60+30+20=130 days
 ## **Example 1 — Supply Chain Metrics**
+| Entity    | Inv | AR | AP | C2C |
+| --------- | --- | -- | -- | --- |
+| Supplier  | 20  | 30 | 45 | 5   |
+| Factory   | 60  | 45 | 30 | 75  |
+| Wholesale | 30  | 30 | 60 | 0   |
+| Retail    | 20  | 40 | 47 | 13  |
 
 ### a. Total Throughput Time
 `20 + 60 + 30 + 20 = 130 days`
