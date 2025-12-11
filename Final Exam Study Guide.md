@@ -15,6 +15,7 @@ Users access apps and data **anytime, anywhere, on any device**.
 
 ## **1.2 Key Characteristics**
 
+* **Can get real expensive real quick**
 * **On-demand self-service**
   Users can provision resources without IT intervention.
   *Example:* A startup instantly spins up 10 new servers on AWS when traffic spikes.
